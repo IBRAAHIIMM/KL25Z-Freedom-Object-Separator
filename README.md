@@ -16,3 +16,5 @@ TAOS TCS3472 Color Sensor to sense the color data
 HDD44780 LCD Screen for displaying
 
 Wooden Sticks for Platform
+
+Project can be run on MBED online compiler and be tested on KL25Z freedom board.
